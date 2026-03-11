@@ -1,6 +1,6 @@
 # ⚙️ AI Predictive Maintenance Dashboard
 
-[![Streamlit App](https://ai-maintenance-ml-web-dashboard.streamlit.app/)]()
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ai-maintenance-ml-web-dashboard.streamlit.app/)
 
 <img width="1490" height="818" alt="Screenshot 2569-03-11 at 16 45 30" src="https://github.com/user-attachments/assets/880a1370-6692-46c5-99d0-0e243da95427" />
 
