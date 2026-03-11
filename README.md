@@ -1,8 +1,10 @@
 # ⚙️ AI Predictive Maintenance Dashboard
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](ใส่ลิงก์Streamlitที่ได้จากการDeployตรงนี้)
+[![Streamlit App](https://ai-maintenance-ml-web-dashboard.streamlit.app/)]()
 
-![Dashboard Screenshot](https://github.com/user-attachments/assets/รหัสรูปภาพของคุณที่GitHubสร้างให้)
+<img width="1490" height="818" alt="Screenshot 2569-03-11 at 16 45 30" src="https://github.com/user-attachments/assets/880a1370-6692-46c5-99d0-0e243da95427" />
+
+<img width="1490" height="892" alt="Screenshot 2569-03-11 at 16 46 08" src="https://github.com/user-attachments/assets/2633f6d6-1fdb-4668-842d-d4a6b7fa6a44" />
 
 ## 📌 Project Overview
 An interactive Machine Learning web application designed to predict manufacturing equipment failures using real-time sensor data. This project aligns with **Lean Manufacturing** principles by enabling early detection of equipment anomalies, minimizing unexpected downtime, and optimizing maintenance schedules.
@@ -19,9 +21,3 @@ An interactive Machine Learning web application designed to predict manufacturin
 * **Data Manipulation:** Pandas
 * **Data Visualization:** Plotly
 * **Web Framework:** Streamlit
-
-## 🚀 How to Run Locally
-
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/Anubiss-007/predictive-maintenance-web-dashboard.git](https://github.com/Anubiss-007/predictive-maintenance-web-dashboard.git)
