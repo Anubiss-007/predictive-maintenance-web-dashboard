@@ -21,3 +21,5 @@ An interactive Machine Learning web application designed to predict manufacturin
 * **Data Manipulation:** Pandas
 * **Data Visualization:** Plotly
 * **Web Framework:** Streamlit
+
+* Data source dataset : Predictive Maintenance Dataset (AI4| 2020)
